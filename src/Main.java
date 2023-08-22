@@ -136,6 +136,5 @@ public class Main {
             equal = value * i;
             System.out.println("2*" + i + "=" + equal);
         }
-
     }
 }
